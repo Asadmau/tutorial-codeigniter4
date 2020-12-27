@@ -17,7 +17,6 @@
 
     <!-- HEADER: MENU + HEROE SECTION -->
     <header>
-
         <div class="menu">
             <ul>
                 <li class="logo"><a href="<?= base_url('/') ?>">CodingCuk!</a>
