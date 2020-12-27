@@ -1,3 +1,7 @@
+# CodeIgniter 4
+Learning belajar Codeigniter 4:
+codeigniter 4 atau yang biasa sering di namakan ci4 adalah salah satu framework php yang menggunkan konsep mvc dan oop, framework ci4 bersifat opensource yang di gunakan untuk membangun aplikasi web dinamis.
+ci4 adalah versi terbaru dari ci3 dimana didalam ci4 banyak fitur - fitur baru yang di sediakan dalam ci4. ci salah satu framework unggulan dari php selain ringan documentasinya juga banyak, apalagi di bagi kita orang indonesia pasti sering bingung ketika mempelajari bahasa pemograman yang dimana documentasinya sedikit dan juga berbahasa inggris pasti bingung kan. untuk ci sendiri di indonesia adalah salah satu framework unggulan yang dimana banyak digunakan oleh developer untuk mengembangkan atau membuat sebuah aplikasi. selain itu ci sangat cocok pagi para programer pemula apalagi dengan menggunkan laptop kentang seperti saya ini, ci sangat ringan dan juga cepat adalah pilihan yang tepat untuk mempelajari bahasa pemograman yang menggunakan framework.
 # CodeIgniter 4 Application Starter
 
 ## What is CodeIgniter?
@@ -63,6 +67,3 @@ Additionally, make sure that the following extensions are enabled in your PHP:
 - [mysqlnd](http://php.net/manual/en/mysqlnd.install.php)
 - xml (enabled by default - don't turn it off)
 
-Learning belajar Codeigniter 4:
-codeigniter 4 atau yang biasa sering di namakan ci4 adalah salah satu framework php yang menggunkan konsep mvc dan oop, framework ci4 bersifat opensource yang di gunakan untuk membangun aplikasi web dinamis.
-ci4 adalah versi terbaru dari ci3 dimana didalam ci4 banyak fitur - fitur baru yang di sediakan dalam ci4. ci salah satu framework unggulan dari php selain ringan documentasinya juga banyak, apalagi di bagi kita orang indonesia pasti sering bingung ketika mempelajari bahasa pemograman yang dimana documentasinya sedikit dan juga berbahasa inggris pasti bingung kan. untuk ci sendiri di indonesia adalah salah satu framework unggulan yang dimana banyak digunakan oleh developer untuk mengembangkan atau membuat sebuah aplikasi. selain itu ci sangat cocok pagi para programer pemula apalagi dengan menggunkan laptop kentang seperti saya ini, ci sangat ringan dan juga cepat adalah pilihan yang tepat untuk mempelajari bahasa pemograman yang menggunakan framework.
